@@ -1,0 +1,21 @@
+PRACTICAL 8: Modifying Virtual Machines
+Prerequisites
+
+• Practical 7 completed
+• Virtual machine available in vCenter
+
+Steps
+
+Log in to vSphere Client and navigate to VMs and Templates.
+
+Select a virtual machine and rename it.
+
+Edit virtual machine settings.
+
+Increase virtual disk size as required.
+
+Modify memory allocation according to workload.
+
+Save the changes.
+
+Verify updated configuration in VM summary.
