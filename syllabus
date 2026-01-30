@@ -1,0 +1,95 @@
+1
+Deploying and Configuring Virtual Machines 
+1. Access Your Student Desktop 
+2. Create a Virtual Machine 
+3. Install VMware Tools 
+4. Copy Files to the Desktop 
+  
+2 
+ Working with vCenter Server Appliance 
+1. Access your vCenter Server Appliance and 
+Configure Licenses 
+2. Configure Single Sign-On and Create a Data Center 
+Object 
+3. Add Your ESXi Hosts to the vCenter Server 
+Inventory 
+4. Configure the ESXi Hosts as NTP Clients 
+5. Create a Host and Cluster Folder. 
+6. Create Virtual Machine and Template Folders. 
+7. Navigate vSphere Client 
+  
+3 
+ Users, Groups, and Permissions 
+1. Join the vCenter Server Appliance to vclass.local 
+Domain 
+2. Add vclass.local as an Identity Source. 
+3. View Active Directory Users. 
+4. Assign Object Permissions to an Active Directory 
+User 
+5. Assign Root-Level Global Permission 
+6. Log In with Windows Session Authentication 
+7. Use an Active Directory User to Manage a Virtual 
+Machine 
+  
+4 
+  
+Using Standard Switches 
+1. View the Standard Switch Configuration 
+2. Create a Standard Switch with a Virtual Machine 
+Port Group 
+3. Attach Your Virtual Machines to the New Virtual 
+Machine Port Group  
+ 
+  
+5 
+ Accessing iSCSI Storage 
+1. Validate an Existing ESXi Host iSCSI Configuration 
+2. Add a VMkernel Port Group to a Standard Switch 
+3. Configure the iSCSI Software Adapter 
+4. Connect the iSCSI Software Adapters to Storage 
+  
+6 
+  
+Managing VMFS Datastores 
+1. Create VMFS Datastores for the ESXi Host 
+2. Expand a VMFS Datastore to Consume Unused 
+Space on a LUN. 
+3. Remove a VMFS Datastore. 
+4. Extend a VMFS Datastore 
+5. Create a Second Shared VMFS Datastore Using 
+iSCSI 
+ 
+  
+7 
+  
+Using Templates and Clones 
+1. Create a Virtual Machine Template 
+2. Create Customization Specifications 
+3. Deploy a Virtual Machine from a Template 
+  
+8 
+  
+Modifying Virtual Machines  
+1. Clone a Powered-On Virtual Machine  
+2. Increase the Size of a VMDK File  
+3. Adjust Memory Allocation on a Virtual Machine.  
+4. Rename a Virtual Machine in the vCenter Server 
+Appliance Inventory  
+5. Add and Remove a Raw LUN on a Virtual Machine  
+ 
+  
+9 
+  
+Managing Virtual Machines 
+1. Unregister a Virtual Machine from the vCenter 
+Server Appliance Inventory 
+2. Register a Virtual Machine in the vCenter Server 
+Appliance Inventory. 
+3. Unregister and Delete Virtual Machines from the 
+Datastore 
+4. Take Snapshots of a Virtual Machine  
+5. Add Files and Take Another Snapshot of a Virtual 
+Machine.  
+6. Revert the Virtual Machine to a Snapshot  
+7. Delete an Individual Snapshot  
+8. Delete All Snapshots.  
