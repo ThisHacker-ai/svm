@@ -1,0 +1,25 @@
+PRACTICAL 6: Managing VMFS Datastores
+Prerequisites
+
+• Practical 5 completed
+• iSCSI storage connected
+
+Steps
+
+Log in to ESXi Host Client and go to Storage.
+
+Click on New Datastore and select VMFS.
+
+Provide datastore name and select available disk.
+
+Use full disk or custom partition size as required.
+
+Complete datastore creation.
+
+Expand datastore to utilize unused LUN space if required.
+
+Verify increased datastore capacity.
+
+Create a second shared VMFS datastore using iSCSI.
+
+Remove or delete a datastore when no longer needed.
