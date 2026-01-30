@@ -1,0 +1,37 @@
+Prerequisites
+
+• VMware Workstation installed on host system
+• ESXi ISO image available
+• Basic knowledge of virtual machine creation
+
+Steps
+
+Open VMware Workstation and click on Create New Virtual Machine.
+
+Select Typical configuration and proceed.
+
+Choose Installer Disc Image (ISO) and browse to select the ESXi ISO file.
+
+Provide a name for the virtual machine and choose the storage location.
+
+Allocate required hardware resources such as processors and RAM (for example 16 GB RAM).
+
+Select Network Address Translation (NAT) for networking.
+
+Choose SCSI as the disk controller and select Split virtual disk into multiple files.
+
+Complete the wizard and power on the virtual machine.
+
+Follow the ESXi installation prompts, accept the license, select disk, set root password, and install ESXi.
+
+Reboot the virtual machine after installation completes.
+
+Enable SSH by pressing F2, navigating to Troubleshooting Options, and enabling SSH.
+
+Access the ESXi Host Client by entering the ESXi IP address in a web browser.
+
+Upload an operating system ISO to the datastore and create a new virtual machine.
+
+Install VMware Tools inside the guest OS.
+
+Verify deployment by copying files to the VM desktop.
