@@ -1,0 +1,25 @@
+PRACTICAL 7: Using Templates and Clones
+Prerequisites
+
+• Practical 6 completed
+• Virtual machine installed and configured
+
+Steps
+
+Create a new virtual machine with required OS.
+
+Install OS updates and VMware Tools.
+
+Power off the virtual machine.
+
+Convert the virtual machine into a Template.
+
+Create Customization Specifications for OS configuration.
+
+Deploy a new virtual machine from the template.
+
+Apply customization settings during deployment.
+
+Power on the deployed virtual machine and verify configuration.
+
+Create clones from existing virtual machines as required.
