@@ -1,0 +1,24 @@
+PRACTICAL 5: Accessing iSCSI Storage
+Prerequisites
+
+• Practical 1, 2, and 4 completed
+• Standard switch configured
+• iSCSI target available
+
+Steps
+
+Log in to ESXi Host Client and navigate to Storage Adapters.
+
+Verify existing iSCSI software adapter configuration.
+
+Create a new VMkernel Port Group for iSCSI traffic.
+
+Assign IP address to the VMkernel adapter.
+
+Enable iSCSI software adapter if not already enabled.
+
+Configure Dynamic Discovery by adding iSCSI target IP address.
+
+Perform rescan to detect available storage.
+
+Verify successful connection between ESXi host and iSCSI storage.
