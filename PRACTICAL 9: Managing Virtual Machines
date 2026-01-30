@@ -1,0 +1,24 @@
+PRACTICAL 9: Managing Virtual Machines
+Prerequisites
+
+• All previous practicals completed
+
+Steps
+
+Log in to vCenter Server.
+
+Unregister a virtual machine from inventory.
+
+Navigate to datastore and register the virtual machine again.
+
+Delete a virtual machine permanently from datastore if required.
+
+Take snapshot of a virtual machine before changes.
+
+Modify VM files and take additional snapshots.
+
+Revert virtual machine to a previous snapshot.
+
+Delete individual snapshots or all snapshots.
+
+Verify virtual machine state after snapshot operations.
