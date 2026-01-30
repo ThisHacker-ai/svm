@@ -1,0 +1,32 @@
+PRACTICAL 3: Users, Groups, and Permissions
+Prerequisites
+
+• Practical 1 and 2 completed
+• vCenter configured
+• Windows Server ISO available
+
+Steps
+
+Create a new virtual machine for Windows Server 2016.
+
+Allocate processors, RAM, storage, and select appropriate network adapter.
+
+Install Windows Server 2016 operating system.
+
+Open Server Manager and add Active Directory Domain Services role.
+
+Promote the server to a Domain Controller by creating a new forest.
+
+Configure domain name and set directory services password.
+
+Restart server after promotion completes.
+
+Configure static IP address and DNS settings.
+
+Join vCenter Server Appliance to the Active Directory domain.
+
+Add the domain as an identity source in vCenter.
+
+View AD users and assign permissions to users and groups.
+
+Test login using Active Directory credentials.
