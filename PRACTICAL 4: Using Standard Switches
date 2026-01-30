@@ -1,0 +1,23 @@
+PRACTICAL 4: Using Standard Switches
+Prerequisites
+
+• Practical 1 and 2 completed
+• ESXi host connected to vCenter
+
+Steps
+
+Log in to vSphere Client using browser.
+
+Navigate to Networking and view existing standard switches.
+
+Create a new Standard Switch with default MTU size.
+
+Create a Virtual Machine Port Group on the switch.
+
+Assign physical network adapter if required.
+
+Save the configuration.
+
+Edit VM settings and attach the VM to the new port group.
+
+Verify network connectivity of the virtual machine.
