@@ -1,0 +1,36 @@
+PRACTICAL 2: Working with vCenter Server Appliance
+Prerequisites
+
+• Practical 1 completed
+• ESXi host installed and running
+• Network connectivity between ESXi and host system
+
+Steps
+
+Run the vCenter Server Appliance (VCSA) installer from the installer directory.
+
+Select Deploy vCenter Server Appliance and accept the license agreement.
+
+Enter ESXi host IP address, root username, and password.
+
+Provide a name and password for the vCenter appliance.
+
+Select deployment size and enable thin disk provisioning.
+
+Configure network settings using DHCP.
+
+Complete Stage 1 installation and wait for deployment to finish.
+
+Continue to Stage 2 configuration via browser.
+
+Configure SSO domain name, credentials, and time synchronization.
+
+Log in to vCenter using the provided IP address.
+
+Create a Datacenter and Cluster.
+
+Add ESXi host to the cluster using root credentials.
+
+Assign evaluation or license key through Licensing section.
+
+Configure NTP settings for time synchronization.
